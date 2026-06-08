@@ -12,9 +12,9 @@ export default function Hero() {
             Premium Fragrance & Skincare
           </p>
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-gray-900 leading-tight mb-6">
-            Indulge Your{" "}
+            Confidence starts with{" "}
             <span className="bg-gradient-to-r from-rose-400 to-pink-500 bg-clip-text text-transparent">
-              Senses
+              scent and skin
             </span>
           </h1>
           <p className="text-base sm:text-lg md:text-xl text-gray-600 mb-8 max-w-lg leading-relaxed">
